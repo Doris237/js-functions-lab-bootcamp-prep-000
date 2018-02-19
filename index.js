@@ -3,4 +3,5 @@ function happyHolidays() {
 } // write your code below!
 function happyHolidaysTo(name) { 
   return "Happy holidays, ${Ju}!"
+  console
 }
